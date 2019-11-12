@@ -1,0 +1,4 @@
+Numero de Clientes: 0
+Numero de Vendedores: 0
+ID venda mais cara: 
+Pior Vendedor: 
